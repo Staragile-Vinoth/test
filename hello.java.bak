@@ -9,6 +9,10 @@ class HelloWorld {
 		System.out.println("Hello, World");
 		System.out.println("Hello, Vinoth");
 		System.out.println("Hello, DevOps");
-		System.out.println("Hello, Star Agile");
+<<<<<<< HEAD
+		System.out.println("Hello, Star");
+=======
+		System.out.println("Hello, Agile");
+>>>>>>> 0deb0f16f25bc575ad0591e4fad422b24dd08b0b
 	}
 }
